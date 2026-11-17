@@ -128,18 +128,14 @@ Przygotowanie i rozwój frontendu w React.
 Projektowanie wyglądu aplikacji.
 Tworzenie katalogu toalet i funkcji ich personalizacji.
 Implementacja wyboru systemu panelu sterowania.
-
-Druga osoba / współautor:
-
 Przygotowanie backendu i bazy danych.
 Implementacja systemu zamówień i rezerwacji terminów.
 Obsługa kont użytkowników i logowania.
 Testowanie funkcjonalności oraz zabezpieczeń.
 
-Podział obowiązków może zostać dostosowany w trakcie realizacji projektu, a obie osoby będą wspólnie pracować nad testowaniem i końcowym dopracowaniem aplikacji.
 
 7. Podsumowanie
 
 YappaToilet ma być nowoczesną i wygodną aplikacją internetową, która umożliwi kompleksowe zamawianie toalet, ich personalizację oraz organizację instalacji i remontów. Projekt ma połączyć kilka czynności w jednym systemie, dzięki czemu użytkownicy będą mogli załatwić wszystkie najważniejsze sprawy związane z zakupem i montażem toalety bez konieczności korzystania z wielu różnych usług.
 
-Naszym celem jest stworzenie funkcjonalnej, przejrzystej i bezpiecznej aplikacji, która będzie łatwa w obsłudze i pozwoli użytkownikom zaoszczędzić czas.
+Moim celem jest stworzenie funkcjonalnej, przejrzystej i bezpiecznej aplikacji, która będzie łatwa w obsłudze i pozwoli użytkownikom zaoszczędzić czas.
